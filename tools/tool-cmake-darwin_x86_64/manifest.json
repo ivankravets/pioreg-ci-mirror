@@ -1,1 +1,1 @@
-{"files": {"8a3548909dab9781c3dc5e7fbe505aacec81ee574f99477afde2f698d668668d": {"name": "tool-cmake-darwin_x86_64-3.15.5.tar.gz", "asset_id": 24007434}}, "tag_name": "tool-cmake-darwin_x86_64", "release_id": 29771793}
+{"files": {"8a3548909dab9781c3dc5e7fbe505aacec81ee574f99477afde2f698d668668d": {"name": "tool-cmake-darwin_x86_64-3.15.5.tar.gz", "asset_id": 24007434}, "cccf5d1c0b582437dc0289e8e373e0f0f693c2fcafb0d49292ebbde57952861f": {"name": "tool-cmake-darwin_x86_64-3.16.4.tar.gz", "asset_id": 24007601}}, "tag_name": "tool-cmake-darwin_x86_64", "release_id": 29771793}
