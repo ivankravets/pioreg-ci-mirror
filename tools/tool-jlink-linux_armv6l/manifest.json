@@ -1,1 +1,1 @@
-{"files": {"9ebbc9f66f8cf1f80b7210b5963cf6175e7b4d1529a37073ef179a84ea993a80": {"name": "tool-jlink-linux_armv6l-1.68801.0.tar.gz", "asset_id": 29057371}}, "tag_name": "tool-jlink-linux_armv6l", "release_id": 33245355}
+{"files": {"9ebbc9f66f8cf1f80b7210b5963cf6175e7b4d1529a37073ef179a84ea993a80": {"name": "tool-jlink-linux_armv6l-1.68801.0.tar.gz", "asset_id": 29057371}, "bb073a7c69332110debb7b83acd9c5a534ae44401333959ef262d2f1b2672f9b": {"name": "tool-jlink-linux_armv6l-1.72000.0.tar.gz", "asset_id": 36116106}}, "tag_name": "tool-jlink-linux_armv6l", "release_id": 33245355}
