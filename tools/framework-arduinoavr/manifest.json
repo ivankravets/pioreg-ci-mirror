@@ -1,1 +1,1 @@
-{"files": {"b9b6274dc671543fc3ea085bba0408f3ad0541298cbc666179d8b914bc4124fe": {"name": "framework-arduinoavr-4.1.2.tar.gz", "asset_id": 24002684}, "da363ba5e841487438d10eb9e3755b56891c17401691f27e48344a5864642d33": {"name": "framework-arduinoavr-4.2.0.tar.gz", "asset_id": 24002687}}, "tag_name": "framework-arduinoavr", "release_id": 29766435}
+{"files": {"da363ba5e841487438d10eb9e3755b56891c17401691f27e48344a5864642d33": {"name": "framework-arduinoavr-4.2.0.tar.gz", "asset_id": 24002687}}, "tag_name": "framework-arduinoavr", "release_id": 29766435}
