@@ -1,1 +1,1 @@
-{"files": {"5fc74cab76c94209a3d1c7b7e02c04daa3cd9ae22f2025e43502ee317524bc18": {"name": "tool-jlink-linux_i686-1.75001.0.tar.gz", "asset_id": 40867827}, "c85d6de4b803eb5799866703b84a4fc8dd69dadab7a159bb4c6c425e357e38fd": {"name": "tool-jlink-linux_i686-1.77001.0.tar.gz", "asset_id": 74387885}}, "tag_name": "tool-jlink-linux_i686", "release_id": 46657851}
+{"files": {"c85d6de4b803eb5799866703b84a4fc8dd69dadab7a159bb4c6c425e357e38fd": {"name": "tool-jlink-linux_i686-1.77001.0.tar.gz", "asset_id": 74387885}}, "tag_name": "tool-jlink-linux_i686", "release_id": 46657851}
